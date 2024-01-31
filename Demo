@@ -1,0 +1,16 @@
+package testNgprractise;
+
+import org.testng.annotations.Test;
+public class firstTestNGScript {
+	
+	
+	@Test
+	public void LoginApp()
+	{
+		
+		System.out.println("Heo word");
+		
+		
+	}
+
+}
